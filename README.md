@@ -8,4 +8,7 @@ To eliminate the presence of pollution by reducing the shipping and return proce
 ### 1. Android Studio
 ### 2. Java
 
+## Authors
+* **Joy** - *Initial work* 
+
 ## License
