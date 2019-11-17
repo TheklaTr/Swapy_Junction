@@ -9,6 +9,6 @@ To eliminate the presence of pollution by reducing the shipping and return proce
 ### 2. Java
 
 ## Authors
-* **Joy** - *Initial work* 
+* **Yooyoung Lee (Joy)** - *Initial work* 
 
 ## License
